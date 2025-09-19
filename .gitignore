@@ -1,0 +1,16 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Node / Composer
+node_modules/
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+*.zip
+dist/
